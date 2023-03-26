@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Abhinandan Raj 🎯️🚀️</h1>
+<h1 align="center">Hello 👋, I'm John Culque 🎯️🚀️</h1>
 <h3 align="center">Hey it's me Abhinadan Raj.I have a keen interest in DSA, Java and Web Development and have a huge fascination with the inner workings of technology.</h3>
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
@@ -8,11 +8,11 @@
 - 🔭 I’m currently working on **Coding Skills.**
 - 🌱 I’m currently learning **Competitive programming and DSA.**
 - 👯 I’m looking to collaborate on **Java and Web Projects.**
-- 👨‍💻 All of my projects are available at <a href="https://github.com/abhinandanraj?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhinandanraj" height="30" width="40" /></a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/johnculque?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="johnculque" height="30" width="40" /></a>
 - 💬 Ask me about **Java, HTML and CSS.**
 
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinandanraj&theme=radical&hide_border=true"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnculque&theme=radical&hide_border=true"/>
 </p>
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
@@ -25,10 +25,10 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
 
 <p align="center">
-<a href="https://linkedin.com/in/abhinandanraj" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="abhinandanraj" /></a>
-<a href="https://github.com/abhinandanraj" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="abhinandanraj" /></a>
-<a href="mailto:crazyabhinandanraj@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="abhinandanraj" /></a>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhinandanraj&label=Visitors&color=0088cc&style=flat-square" alt="abhinandanraj" /> </p>
+<a href="https://linkedin.com/in/johnculque" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="johnculque" /></a>
+<a href="https://github.com/johnculque" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="johnculque" /></a>
+<a href="mailto:crazyjohnculque@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="johnculque" /></a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=johnculque&label=Visitors&color=0088cc&style=flat-square" alt="johnculque" /> </p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
@@ -36,11 +36,11 @@
   <summary>📊 <b>Github Readme Stats</b></summary>
  <br />
  <p align="center">
-  <a href="https://github.com/abhinandanraj">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandanraj&show_icons=true&theme=radical&count_private=true">
+  <a href="https://github.com/johnculque">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=johnculque&show_icons=true&theme=radical&count_private=true">
   </a>
-  <a href="https://github.com/abhinandanraj/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abhinandanraj&layout=compact&theme=radical&langs_count=6" />
+  <a href="https://github.com/johnculque/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=johnculque&layout=compact&theme=radical&langs_count=6" />
   </a>
  </p>
 </details>
@@ -50,7 +50,7 @@
  <br />
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=abhinandanraj&column=8&theme=darkhub"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=johnculque&column=8&theme=darkhub"/>
   </a>
  </p>
 </details>
